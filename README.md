@@ -1,4 +1,4 @@
-# HypnOS-Session
+# Git-Session
 
 ## Steps to look out for
 - Fork this Repo
