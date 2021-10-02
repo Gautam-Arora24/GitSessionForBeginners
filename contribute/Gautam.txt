@@ -1,0 +1,4 @@
+Howdy! I am Gautam Arora.
+
+I love to contribute to open source projects. My hobby includes playing table tennis, 
+reading about JavaScript from docs, and chilling with friends :)
